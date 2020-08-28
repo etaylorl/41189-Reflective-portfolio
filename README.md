@@ -23,7 +23,7 @@ In particular I learnt about the different approaches for the types of models th
 ## What are my strengths/ weakness' that i have observed 
 As I had done the pre-work to a high standard  and before the tutorial, this meant that I had a good foundational knowledge to know and understand what the tutor was talking about during the tutorial. I was able to pick up more information, ideas and different insights building on my current knowledge. However I need to learn the technical information better to strengthen my understanding. Similarly it would be a good idea to do my reflections on the day or day after to remember the full representation of my experience. 
 
-# *Reflection week 3
+# Reflection week 3
   ## What have i learnt this week?
  
 	I have applied previous knowledge about models from last weeks workshop, to be able to build on the new examples and applications in this weeks learning materials. It was very interesting looking at the different models of signalling which identify various conditions under which people send costly signals to reveal information or their type. This can look at things such as conspicuous consumption entailing what other people think of us and what we consume signals our status to others e.g. Buying an expensive car. Whereas cost signalling looks at the meaning or significance that a person attaches to something which is felt in direct proportion to the expense at which it is communicated. This can include hidden action and information by people which is only demonstrated through outcomes. 
@@ -36,7 +36,7 @@ As I had done the pre-work to a high standard  and before the tutorial, this mea
 ## What were the challenges i have encountered or observed and how well did I/ my team handle them?
 	We have just formed groups for upcoming group and team assignments, i am in a team of four. One of the girls I have worked with previously in another subject last semester however I have never met her, but I know that we work fairly well together and get along. It will be a challenge working together with the two other girls later in the semester as I don't really know anything about them as a person or their abilities. But as the weeks go buy hopefully we can organise well and achieve tasks. We have established a communication group and platform as well which is a good progressing start.
 	
-# *Reflection week 4
+# Reflection week 4
 	
 ## What have i learnt this week?
 	
@@ -51,4 +51,17 @@ Similarly to other weeks, I have found a strength in my learning habits through 
 I have also found cross over with some of the theory in this class with the other subjects that I have been doing. Which makes it easier to understand and expand my knowledge as well as previous subjects that i have done. Such as learning about nodes and network formations. 
 	
 However I have become less motivated to write my reflections after class, as my schedule for the second half of the week is fairly busy. But I am trying to do this earlier even if it means planning the reflection after class and then writing it later in the week. As this is a very important life skill and learning tool that is necessary. 
+
+# Week 5 reflection
+## What have i learnt this week?
+Week 5's module was about aggregating decisions and behaviours mostly focusing on the importance of probability. Aggregation focused on non-linear models which required agents and behaviours to provide outcomes and change. Which is very useful for predicting, understanding data and working through logic. It was important to get an idea about the different distributions of probability which represent the random values and outcomes of a situation. In particular discrete random values which can be calculated by counting the number of possible outcomes compared to continuous random variables which have an infinite number of possible values and need to be calculated through measuring. Similarly looking at the shape of the diagrams and the six sigma deviation i really enjoyed learning that 68% of probability lies in one standard deviation from the mean, 95% in 2 and 1 in 3.4 million in 6 standard deviations. As well learning about linear models was good to understand the basics of probability as this is popularly used to make simple predictions and look at data initially. This is a good way to understand the data but realistically we live in a non linear world so it can be hard to predict some functions 
+	
+## What are my strengths/ weakness' that i have observed ?
+As I am currently studying statistics in my double degree of information systems and business, much of the probability was familiar to me. It was good to build on to previous knowledge that I had just recently learnt while also learning about applications to the real world. Without having to worry about the formulas, I was able to clearly get world application and examples through this recap. I also did my reflection earlier this week, and will leave the pre work and readings till before the workshop. 
+	
+However, I need to make myself clearer on a few concepts learnt in class as well as get an idea about the upcoming assessment and what needs to be done for that. To be able to have a good understanding before contributing to group work and planning the different aspects for the future. 
+	
+## What were the challenges i have encountered or observed and how well did I/ my team handle them?
+	
+For next lesson we need to start brainstorming models and problem ideas with our team, as well as choose a team leader. Although we have already established our group and got a clear social media for communication between everyone, we haven't yet completed this. However I am sure over the weekend we will be able to communicate over text or the phone to come to this decision to make sure that we are up to date and ready for class. However it is good to know that everyone is involved and contributing as well as coming to class and engaging with the content. 
 
