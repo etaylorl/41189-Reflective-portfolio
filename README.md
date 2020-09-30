@@ -104,4 +104,20 @@ This week we have a draft of sections 1,2,3 which we had previously sectioned of
 
 We also had another issue of someone thinking they were in our group when they weren't. This was because it said their name on canvas however they had not been contributing to any discussions, nor on the chat or even showing up to class. We helped them become part of another group, but if he were to join our group that would have been very unfair as we had already assigned and completed parts. Rather than just joining and messaging one of the members several days before the assessment was due. 
 
+# Reflection week 9
+
+## What have I learnt this week?
+	
+This week and for the next few weeks there isn't any content within the weekly workshops. This is because our groups are all focusing on working on the assessment that is due at the end of week 12. Which gives us additional time for all group members to be online and participating ensuring everyone is on the same page and getting tasks completed.
+	
+As we submitted our draft in week 8, it was hard to progress completely into the next section of the assessment without marks and feedback. However Juan has said that we should be receiving marks and feedback on Friday, giving us more direction to plan for next lesson and the next few weeks. 
+	
+## What were the challenges i have encountered or observed and how well did I/ my team handle them?
+	
+The beginning of the workshop was just a general explanation about the plan for the next few weeks, working in our teams and what needs to be done. All groups were split into their breakout rooms to discuss the progressing steps needed for the future. As we were very uncertain about how to tackle 4,5,6 we requested Juan to be in our group and to step us through this process. Before he joined we had discussed different aspects of the assessment that we needed to clarify and any other queries. During this call I mostly asked and clarified the questions for the group. 
+	
+After this call we organised all the necessary and different parts, in particular how we should address python. As no one in the group had any specific coding experience or knowledge about this area. It makes it very difficult to know the direction and steps necessary for this section of the assessment. It was good to see each individual contributing to the discussion and dividing of the parts, especially if there were any individual concerns that needed to be addressed by the whole group. The other three members of my group also had a large assessment due the following day, this meant that after organising we agreed to follow up and meet next week. To allow them to work on their assessment because it is important to consider that individuals have different commitments and other things going on in their lives. I also made sure that all things discussed and allocated were put into the google doc to make it easily accessible for members to work on their parts during their own time. Our group leader also made sure that Githib was accessible and to follow through with feedback and marks later in the week. So far our team has worked very well and effectively to complete the different parts of the assessment, as each individual has brought different skills and opinions that are useful. These different perspectives are necessary to create a well rounded and developed project about our topic of Corona Virus in the housing market. 
+	
+
+
 
