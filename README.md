@@ -119,7 +119,9 @@ The beginning of the workshop was just a general explanation about the plan for 
 After this call we organised all the necessary and different parts, in particular how we should address python. As no one in the group had any specific coding experience or knowledge about this area. It makes it very difficult to know the direction and steps necessary for this section of the assessment. It was good to see each individual contributing to the discussion and dividing of the parts, especially if there were any individual concerns that needed to be addressed by the whole group. The other three members of my group also had a large assessment due the following day, this meant that after organising we agreed to follow up and meet next week. To allow them to work on their assessment because it is important to consider that individuals have different commitments and other things going on in their lives. I also made sure that all things discussed and allocated were put into the google doc to make it easily accessible for members to work on their parts during their own time. Our group leader also made sure that Githib was accessible and to follow through with feedback and marks later in the week. So far our team has worked very well and effectively to complete the different parts of the assessment, as each individual has brought different skills and opinions that are useful. These different perspectives are necessary to create a well rounded and developed project about our topic of Corona Virus in the housing market. 
 	
 # Reflection week 10
+
 ## What have I learnt this week?
+
 This week's workshop started with a general introduction and building on last week's theory. From there Juan split us into our break out rooms to continue working on our assessment and having discussions to improve. After receiving feedback from an external marker this allowed us to analyse and interpret this. Similarly we were able to review the feedback from our peers and their opinions about the positives and negatives about our assessment. There were several main positives including good analysis and wording of information, the choice of a relevant issue and use of graphs. However, several people said that there needed to different perspectives about Corona virus in the housing market including some positives. As there was a main interpretation that this opinion was mainly negative. Similarly some areas of pictures and text needed to be fixed in the formatting but this was the fault of GitHub.  
 	
 The overall feedback from the marker was mostly positive which was very exciting to see that we were on the right track. For my introduction part I need to include some positives and some solutions for Corona Virus and flesh out more of the Markov model. However Juan told us that some of this feedback isn't as relevant and we should just continue working on our parts. 
@@ -128,6 +130,23 @@ The overall feedback from the marker was mostly positive which was very exciting
 	
 After reviewing the feedback from the marker and our peers we continued discussing the progressing steps for the future. However, we waited for Juan to give us more detailed feedback in the breakout room. From this we divided our parts based on our models and will fix our current parts for next weeks workshop. There were some parts of the zoom call where there wasn't much engagement or speaking from all the team members. So we stopped this earlier to let everyone work on their parts and other assessments that they had due. This was a fairly quiet week compared to others, as it just required continuing previous work that was already assigned and there was no new content. 
 
+# Reflection week 11
+
+## What have i learnt this week?
+
+Similarly to last week the beginning part of the class was just a small introduction to then be able to continue group work for our final assessment. We were also lucky enough to get an extension of two weeks, to ensure that we had enough time to figure out how to use python and reduce the number of potential issues. This means that we have more time to produce a high quality report and check on all members through the next couple of weeks to see their progress.
+	
+This week Juan had also submitted his own feedback aside from another markers last week. Which was very helpful as he provided more detail about specific sections and areas that needed work. The feedback for Sabi and I was particularly useful as he gave some suggestions about how to approach the next section. Giving us advice about how to define the states and probabilities e.g. The increase or decrease of house sales and prices. This was something that we were brainstorming about and having this feedback will give more direction over the next week. Similarly including a comparison to the random walk model could be useful to separate each model and their properties in different scenarios.
+	
+## What are my strengths/ weakness' that i have observed 
+	
+Now that the due date is later this has meant that this assignment isn't as high of a priority as it used to be. Meaning that I can work on other assessments that are due before this, however I should continuously work on this assignment throughout the next couple weeks. As it will mean more consistent and high quality work rather than a rushed piece at the end. I also need to do some pre-work and research into python for the Markov model to be able to do this component of the assessment before it is due. However my reflections are progressing weekly and I am completing them early and on time which has been beneficial to have lots of updated information. 
+	
+## What were the challenges i have encountered or observed and how well did I/ my team handle them?
+	
+Our team received and reflected well on the feedback that Juan gave us. Most members took an individual approach from the model that they worked on so that they are now able to make changes into the future. Our group leader Shino, suggested that any changes made to the current google doc should be a different colour so that she knows to make changes in the GitHub as this is a lengthy process. It was also very exciting to see that some parts of our report were being used as examples to the rest of the class, which means that we are on the right track and doing well. The overall feedback was fairly successful and I am very happy with how our team has done.
+
+For the future each individual needs to work on their parts and then we will check-up again next week to progress to the due date. Sabi and I keep in regular communication to see how we are both going as we are working on the same model. 
 
 
 
