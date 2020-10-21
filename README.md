@@ -148,5 +148,14 @@ Our team received and reflected well on the feedback that Juan gave us. Most mem
 
 For the future each individual needs to work on their parts and then we will check-up again next week to progress to the due date. Sabi and I keep in regular communication to see how we are both going as we are working on the same model. 
 
+# Reflection week 12 
+
+## What were the challenges i have encountered or observed and how well did I/ my team handle them?
+	
+Juan decided to not have class this week, rather continue group work and have one on one meetings with groups if necessary. To continue working on the Markov model one of the team members that is working on this section with me (Sabi) met up at the UTS library for the day to work on this. This made it much easier to communicate and sort out the different sections and elements for the part. Here we also had to do a lot of research and collaboration to learn about how to use python to implement the model. We also spent some time brainstorming ideas for the sensitivity analysis while also figuring out what it consisted of. As this was both a new concept and idea for us to grasp our understanding about we used two different key examples relating to Coronavirus in the housing market. We took this same approach very similarly to discuss and report back on other potential scenarios and the effects of that. As Sabi and I had previously worked on assignments last semester we know each others strengths and weakness' and this breaks down a barrier to be able to work effectively together. This makes it much more enjoyable and easier to get along and suggest ideas. And this meant that a lot of our work was accomplished and planned to be able to work on for the next week until the due date.
+	
+There were several issues with GitHub and smaller questions which we all discussed online with the different team members. We did have to research and do some problem solving to help figure this out, but with each members opinion this made it a much faster and smoother process. The other models are currently being worked on by the other two group members and if it is like last draft these will be completed on time and to a high standard. It has been very interesting and fun doing this assignment with my group, learning all the content and attending the workshops. Doing reflections has allowed me to get better at writing while also organising myself and tracking my progress. 
+
+
 
 
